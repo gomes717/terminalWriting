@@ -1,0 +1,5 @@
+C:/Users/guigu/source/repos/teste2/out/build/x64-Debug (padrão)/CMakeFiles/edit_cache.dir
+C:/Users/guigu/source/repos/teste2/out/build/x64-Debug (padrão)/CMakeFiles/rebuild_cache.dir
+C:/Users/guigu/source/repos/teste2/out/build/x64-Debug (padrão)/teste2/CMakeFiles/teste2.dir
+C:/Users/guigu/source/repos/teste2/out/build/x64-Debug (padrão)/teste2/CMakeFiles/edit_cache.dir
+C:/Users/guigu/source/repos/teste2/out/build/x64-Debug (padrão)/teste2/CMakeFiles/rebuild_cache.dir

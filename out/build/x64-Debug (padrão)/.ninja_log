@@ -1,0 +1,12 @@
+# ninja log v5
+0	109	632553224	teste2/CMakeFiles/teste2.dir/teste2.cpp.obj	addbc29c9eb4164c
+1	224	632548502	teste2/CMakeFiles/teste2.dir/fonte.cpp.obj	7490a41bdbc2a39e
+109	375	632553225	teste2/teste2.exe	c9e2a5eebc9b9be2
+1	165	632552799	build.ninja	765313de302b5d7e
+0	114	632553257	teste2/CMakeFiles/teste2.dir/teste2.cpp.obj	addbc29c9eb4164c
+114	348	632553257	teste2/teste2.exe	c9e2a5eebc9b9be2
+1	109	632553271	teste2/CMakeFiles/teste2.dir/teste2.cpp.obj	addbc29c9eb4164c
+109	333	632553271	teste2/teste2.exe	c9e2a5eebc9b9be2
+1	188	632711562	build.ninja	765313de302b5d7e
+1	749	632711563	teste2/CMakeFiles/teste2.dir/main.cpp.obj	99d75dd7a2f47d87
+749	2070	632711564	teste2/teste2.exe	980b2abe2bf3ba91
